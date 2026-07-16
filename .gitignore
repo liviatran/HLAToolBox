@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
+.Ruserdata
+HLAToolBox.Rproj
+data_objects_generation_workflow.R
+generate_rda_files.R
+renv.lock
+.git
+renv/
