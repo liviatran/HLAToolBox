@@ -9,3 +9,4 @@ generate_rda_files.R
 renv.lock
 .git
 renv/
+.DS_Store
